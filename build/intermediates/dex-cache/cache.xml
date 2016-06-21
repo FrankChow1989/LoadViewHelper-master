@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\pc\Desktop\LoadViewHelper-master1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5b464b2b458c50c9e20a67b194dc419c6753d37c">
+        <dex dex="C:\Users\pc\Desktop\LoadViewHelper-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f7bb6868f750371c704c35873315389d30252732\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\pc\Desktop\LoadViewHelper-master1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2e7a43f8e4dbf4ad6b62e05296a70f8d7a1ad16b">
+        <dex dex="C:\Users\pc\Desktop\LoadViewHelper-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5ba9a96fa58268690e683bc64ee883f262ff8bd4\classes.dex" />
+    </item>
+
+</items>
